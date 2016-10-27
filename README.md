@@ -1,4 +1,4 @@
-BASE PARA EL BUSCAMINAS: Jesús Redondo
+BASE PARA EL BUSCAMINAS: Ontoquercus
 =======================================
 
 En este programa se encuentra la base para el ejercicio 35 de Desarrollo de intefaces.
