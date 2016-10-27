@@ -36,7 +36,12 @@ public class ControlJuego {
 	 */
 	public void inicializarPartida(){
 		//Borro del tablero la información que pudiera haber anteriormente (los pongo todos a cero):
-
+		for (int i = 0; i < tablero.length; i++) {
+			for (int j = 0; j < tablero[i].length; j++) {
+				tablero[i][j] = 0;
+			}
+		}
+		
 		//Me creo LADO_TABLERO*LADO_TABLERO números en un array list, uno para cada una de las posiciones del tablero:
 
 		//Saco 20 posiciones sin repetir del array y les coloco una mina en el tablero:
