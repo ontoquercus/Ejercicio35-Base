@@ -1,5 +1,5 @@
-BASE PARA EL BUSCAMINAS
-=========================
+BASE PARA EL BUSCAMINAS: Jesús Redondo
+=======================================
 
 En este programa se encuentra la base para el ejercicio 35 de Desarrollo de intefaces.
 
